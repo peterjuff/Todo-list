@@ -5,7 +5,7 @@ import "./index.css";
 
 const destination = document.querySelector("#container");
 
-React.render(
+ReactDOM.render(
   <div>
     <TodoList />
   </div>,
